@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "routeName": "Nyabugogo - Remera",
+    "stops": ["Nyabugogo", "Gitega", "Muhima", "Rubangura", "Eneo", "Gishishu", "Remera"],
+    "fare": 350,
+    "estimatedTime": 35,
+    "coordinates": [
+      [-1.939, 30.044],
+      [-1.944, 30.051],
+      [-1.948, 30.058],
+      [-1.953, 30.060],
+      [-1.958, 30.065],
+      [-1.962, 30.088],
+      [-1.959, 30.125]
+    ],
+    "crowdLevel": "medium"
+  },
+  {
+    "id": "2",
+    "routeName": "Downtown - Kimironko",
+    "stops": ["Downtown", "City Center", "Sopetrad", "Kacyiru", "Gishishu", "Kimironko"],
+    "fare": 300,
+    "estimatedTime": 25,
+    "coordinates": [
+      [-1.944, 30.061],
+      [-1.947, 30.063],
+      [-1.956, 30.076],
+      [-1.958, 30.088],
+      [-1.962, 30.088],
+      [-1.950, 30.120]
+    ],
+    "crowdLevel": "low"
+  },
+  {
+    "id": "3",
+    "routeName": "Remera - Kicukiro",
+    "stops": ["Remera", "Giporoso", "Sonatube", "Kicukiro Center"],
+    "fare": 200,
+    "estimatedTime": 15,
+    "coordinates": [
+      [-1.959, 30.125],
+      [-1.962, 30.122],
+      [-1.968, 30.110],
+      [-1.975, 30.105]
+    ],
+    "crowdLevel": "high"
+  },
+  {
+    "id": "4",
+    "routeName": "Nyanza - Downtown",
+    "stops": ["Nyanza Bus Park", "Gatenga", "Kicukiro", "Rwandex", "Downtown"],
+    "fare": 400,
+    "estimatedTime": 40,
+    "coordinates": [
+      [-2.002, 30.091],
+      [-1.985, 30.095],
+      [-1.975, 30.105],
+      [-1.965, 30.075],
+      [-1.944, 30.061]
+    ],
+    "crowdLevel": "medium"
+  }
+]

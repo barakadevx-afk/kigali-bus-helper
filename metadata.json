@@ -1,0 +1,6 @@
+{
+  "name": "Kigali Bus Helper",
+  "description": "Smart transport assistant for Rwanda's capital. Find the best bus routes, estimate fares, and view live maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["maps", "routing", "pwa"]
+}
